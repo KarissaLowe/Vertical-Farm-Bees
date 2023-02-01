@@ -12,4 +12,4 @@ This is the project I did for my undergraduate thesis at Princeton University. I
 <p align="left">
 Descriptions of R files:
 </p>
-*Question 1 - Were the number of berries produced by plants different between treatments and season trials? R code for Figure 1 and the Zero-inflated regression (and additional T Tests) to compare values
+* Question 1 - Were the number of berries produced by plants different between treatments and season trials? R code for Figure 1 and the Zero-inflated regression (and additional T Tests) to compare values
