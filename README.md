@@ -13,4 +13,5 @@ This is the project I did for my undergraduate thesis at Princeton University. I
 Descriptions of R files:
 </p>
 
-* Question 1 - Were the number of berries produced by plants different between treatments and season trials? R code for Figure 1 and the Zero-inflated regression (and additional T Tests) to compare values
+* Strawberry and Plant Analysis
+** Question 1 - Were the number of berries produced by plants different between treatments and season trials? This file contains R code for Figure 1 and the Zero-inflated regression (and additional T Tests) to compare number of berries.
