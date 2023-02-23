@@ -16,4 +16,5 @@ Descriptions of R files:
 * **Strawberry and Plant Analysis**
   * Question 1 - Were the number of berries produced by plants different between treatments and season trials? This file contains R code for Figure 1 and the Zero-inflated regression (and additional T Tests) to compare number of berries.
   * Question 2 - Does the volume of strawberries differ between different treatments? This File contains R code for Figure 2 and T Tests to compare volume of berries between treatments 
+  * Question 3 - Does the Dry Matter Content (DMC) of the strawberries differ between treatments? This File contains R code for Figure 3 and Tests to compare dry matter content of berries between treatments 
 
