@@ -24,7 +24,6 @@ Descriptions of R files:
   
   
   <br></br>
-  <br></br>
-  <center>
+
 ![Set up of the Strawberry Vertical Farm and different treatment rooms](https://github.com/KarissaLowe/Vertical-Farm-Bees/blob/main/Farm_SetUp.PNG?raw=true)
-</center>
+
