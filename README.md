@@ -23,5 +23,8 @@ Descriptions of R files:
   * **Question 6** - We provided four alternative food choices to investigate the best food supplement for O. lignaria. Which food suppliement had the most visits and was this affected by season condition?
   
   
+  <br></br>
+  <br></br>
+  <center>
 ![Set up of the Strawberry Vertical Farm and different treatment rooms](https://github.com/KarissaLowe/Vertical-Farm-Bees/blob/main/Farm_SetUp.PNG?raw=true)
-
+</center>
