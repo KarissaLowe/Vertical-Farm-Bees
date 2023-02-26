@@ -21,4 +21,7 @@ Descriptions of R files:
 * **Bee Health and Behavior Analysis**
   * **Question 5** - How is bee death rate affected by UV light treatment and Season conditions? This File contains R code for Figure 5 and 6 and comparisons of death rate models including UV grouping/season grouping and not.
   * **Question 6** - We provided four alternative food choices to investigate the best food supplement for O. lignaria. Which food suppliement had the most visits and was this affected by season condition?
+  
+  
+![Set up of the Strawberry Vertical Farm and different treatment rooms](https://github.com/KarissaLowe/Vertical-Farm-Bees/blob/main/Farm_SetUp.PNG?raw=true)
 
