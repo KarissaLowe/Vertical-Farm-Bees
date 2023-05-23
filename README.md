@@ -3,7 +3,7 @@
 ## Investigating Osmia Lignaria as Strawberry Pollinators for Urban Vertical Farms
 
 <p align="left">
-This is the project I did for my undergraduate thesis at Princeton University. I investigated the pollination ability of the solitary bee, Osmia lignaria, in a vertical farm growing strawberries. 
+This is the project I did for my undergraduate thesis at Princeton University. I investigated the pollination ability of the solitary bee, Osmia lignaria, in a vertical farm growing strawberries. You can read the abstract and complete paper by downloading the PDF file. Here is a summary of the project: 
 </p>
 
 * By setting up three small vertical farms, I examined the differences in fruit amount, size, quality and overall plant health in the presence and absence of O. lignaria. 
